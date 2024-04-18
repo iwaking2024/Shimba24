@@ -24,8 +24,8 @@ https://chat.whatsapp.com/CTILZXSriIE3M40anVyPT4
 https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-▢ Todos los Grupos
- https://instabio.cc/fg98ff
+▢ Link
+ https://linkbio.co/6041802re85Oa
 
 ▢ *Telegram*
 • https://t.me/fgawgp

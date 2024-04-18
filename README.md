@@ -70,13 +70,17 @@ $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ git clone https://github.com/iwaking2024/Shimba-Bot
 $ cd Shimba-Bot
-$ rm -rf sessions 
+$ npm i
 $ npm start
 ```
 2. Esperar a que se inicie el bot...
 3. Escanea el código QR desde el segundo dispositivo. (ir a whatsapp > Dispositivos Vinculados > Vincular un dispositivo)
 ---------
 
+### `🤖 𝙿𝙰𝚁𝙰 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝟸𝟺/𝟽 (𝚃𝙴𝚁𝙼𝚄𝚇)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
 
 ## BOXMINE
 

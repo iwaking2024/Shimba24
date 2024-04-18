@@ -25,10 +25,10 @@ global.author = '@fg98'
 
 //--info FG
 global.botName = 'Senna'
-global.fgig = 'https://www.instagram.com/' 
+global.fgig = 'https://www.instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/'
-global.fgpyp = 'https://paypal.me/'
+global.fgyt = 'https://youtube.com/fg98f'
+global.fgpyp = 'https://paypal.me/fg98f'
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
 
 //--- Grupos WA
@@ -36,7 +36,7 @@ global.id_canal = '120363177092661333@newsletter' //-ID de canal de WhatsApp
 global.fgcanal = 'https://whatsapp.com/channel/0029VaWuAl411ulWZoL0Wd11'
 global.bgp = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr'
 global.bgp2 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr'
-global.bgp3 = 'https://chat.whatsapp.com/' //--GP NSFW
+global.bgp3 = 'https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH' //--GP NSFW
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
 global.rwait = '⌛'

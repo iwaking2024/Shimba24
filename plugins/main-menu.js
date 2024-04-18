@@ -29,17 +29,13 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-◈ ━━━━━ *Senna  ┃ ᴮᴼᵀ* ━━━━━ ◈
+◈ ━ *Shimba  ┃ ᴮᴼᵀ* ━ ◈
  
 👋🏻 Hola! *%name*
 👥 Usuarios : %totalreg
 🟢 Tiempo activo : %muptime
 %sbot
-▢ ADD
-• https://instagram.com/fg98_ff
-
-• https://fgmods.xyz
-
+▢ 
 ────────────
 %readmore
   ≡ *LISTA DE MENUS*

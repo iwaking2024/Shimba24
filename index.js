@@ -105,7 +105,7 @@ async function start(file) {
 
 
   console.log(chalk.blue.bold(`\n⏰ Hora Actual`));
-  const currentTime = new Date().toLocaleString('es-ES', { timeZone: 'America/El_Salvador' })
+  const currentTime = new Date().toLocaleString('es-ES', { timeZone: 'America/Argentina/Buenos_Aires' })
   //const currentTime = new Date().toLocaleString();
   console.log(chalk.cyan(`${currentTime}`));
 

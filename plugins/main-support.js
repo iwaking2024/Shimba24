@@ -30,9 +30,9 @@ https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
 ▢ *Telegram*
 • https://t.me/fgawgp
  ▢ *PayPal*
-• https://paypal.me/fg98f
+• https://paypal.me/
 ▢ *YouTube*
-• https://www.youtube.com/fg98f`)
+• https://www.youtube.com/`)
 
 }
 handler.help = ['support']
